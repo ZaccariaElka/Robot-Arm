@@ -10,5 +10,10 @@ The design will change over time but this will give us a quick overview of it.
 After a few tries a came out with a simple design and more ideas for the arm.
 This image will be my inspiration for the initial 3D model of the arm.
 
-![sketch](https://github.com/ZaccariaElka/Robot-Arm/blob/main/img/03_basemodel.png?raw=true)
+![basemodel](https://github.com/ZaccariaElka/Robot-Arm/blob/main/img/03_basemodel.png?raw=true)
 This is the render of the base model for the robot arm. It does not have any mechanics yet, but they will be added after i will finalize all the shapes and measurements.
+
+After testing the efficiency of the robotic arm i decided to make a redesign. I want it to look great and work well. 
+
+![newmodel](https://github.com/ZaccariaElka/Robot-Arm/blob/main/img/04_newmodel.png?raw=true)
+I came up with this simple design, that will rotate around 4/5 axis. I will later have to test the movements.
